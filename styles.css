@@ -116,12 +116,12 @@ p {
   margin-right: 12px;
 }
 
-.result-card #score {
+.score {
   color: hsl(224, 30%, 27%);
   margin-left: auto;
 }
 
-.result-card #max-score {
+.max-score {
   color: hsl(224, 30%, 70%);
   margin-left: 8px;
 }
